@@ -1,0 +1,37 @@
+.banner {
+	margin-top: 33px;
+	.banner-wrap {
+		min-height: 352px;
+		display: flex;
+	}
+	.left-banner {
+		background-color: var(--primary-color);
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+		color: var(--color-white);
+		text-transform: capitalize;
+		flex: 0 1 40%;
+		h2 {
+			margin-bottom: 50px;
+			font-size: 3rem;
+			line-height: 3.562rem;
+		}
+		.show-line {
+			display: inline-block;
+			border-bottom: 8px solid var(--theme-color);
+			width: 100%;
+			max-width: 5rem;
+		}
+	}
+	.right-banner {
+		flex: 1;
+		background-color: var(--color-white);
+		background-image: url("../../Assets/Images/banner-adobe.jpeg");
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-origin: content-box;
+		padding: 1rem 0;
+	}
+}

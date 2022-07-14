@@ -1,0 +1,30 @@
+.logo {
+	display: inline-block;
+	padding-right: 0.625rem;
+	max-height: 3rem;
+	margin: 0.938rem 0;
+}
+.site__logo {
+	font-size: 1.25rem;
+	line-height: 1.125rem;
+	font-weight: 400;
+	letter-spacing: 0.312rem;
+	text-transform: uppercase;
+	span {
+		display: inline-block;
+		letter-spacing: 0;
+		margin-right: 0.312rem;
+		background: linear-gradient(
+			to right,
+			var(--theme-color) 50%,
+			var(--primary-color) 50%
+		);
+		background-clip: text;
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+	}
+	a {
+		text-decoration: none;
+		color: inherit;
+	}
+}

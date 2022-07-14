@@ -1,0 +1,48 @@
+// @import url("https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;500;600;700&display=swap");
+// @import url("https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@300;400;600;700&display=swap");
+@import url("https://use.typekit.net/lgs2rpj.css");
+:root {
+	font-size: 16px;
+
+	--theme-color: #1f39ff;
+	--color-white: #fff;
+
+	--screen-xxs: 320px;
+	--screen-xs: 480px;
+	--screen-s: 640px;
+	--screen-m: 768px;
+	--screen-l: 992px;
+	--screen-xl: 1200px;
+	--screen-xxl: 1360px;
+
+	--primary-color: #1b252c;
+
+	--primary-font: 1rem;
+	--primary-lheight: 1.25rem;
+	--font-family: "muli", sans-serif;
+
+	--container: calc(
+		1371px + 32px
+	); // 1371px is container width + 16px of padding on left and right.
+}
+
+// $theme__color: #1f39ff;
+// $color__white: #fff;
+
+// $screen__xxs: 320px;
+// $screen__xs: 480px;
+// $screen__s: 640px;
+// $screen__m: 768px;
+// $screen__l: 992px;
+// $screen__xl: 1200px;
+// $screen__xxl: 1360px;
+
+// $primary__color: #1b252c;
+
+// $primary__font: 1rem;
+// $primary__lheight: 1.25rem;
+// $font__family: "Mulish", sans-serif;
+
+// $container: calc(
+// 	1371px + 32px
+// ); // 1371px is container width + 16px of padding on left and right.
