@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/venia/static/css/main.8f6bacf8.css",
+    "main.js": "/venia/static/js/main.812ce56e.js",
+    "static/js/787.b396142e.chunk.js": "/venia/static/js/787.b396142e.chunk.js",
+    "static/media/banner-adobe.jpeg": "/venia/static/media/banner-adobe.c0806fe77940071cda3d.jpeg",
+    "index.html": "/venia/index.html",
+    "main.8f6bacf8.css.map": "/venia/static/css/main.8f6bacf8.css.map",
+    "main.812ce56e.js.map": "/venia/static/js/main.812ce56e.js.map",
+    "787.b396142e.chunk.js.map": "/venia/static/js/787.b396142e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f6bacf8.css",
+    "static/js/main.812ce56e.js"
+  ]
+}
